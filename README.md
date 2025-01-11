@@ -17,7 +17,7 @@
 | --- | ------------------------ | ----- | -------- |
 | 1   | 스프링부트 시작하기               | 11.13 |   https://monicx.tistory.com/12       |
 | 2   | MVC 패턴의 이해와 실습           | 11.14 |          |
-| 3   | 게시판 만들고 새 글 작성하기: Create |  11.18 ~    |   https://monicx.tistory.com/13 https://monicx.tistory.com/31      |
+| 3   | 게시판 만들고 새 글 작성하기: Create |  11.18 ~    |   https://monicx.tistory.com/13<br>https://monicx.tistory.com/31      |
 | 4   | 롬복과 리팩토링                 |       |   -       |
 | 5   | 게시글 읽기: Read             |       |   [대체](https://monicx.tistory.com/26) - 스프링부트 도구 선택하기      |
 | 6   | 게시판 내 페이지 이동하기           |       |          |
